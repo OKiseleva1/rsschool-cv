@@ -1,4 +1,4 @@
-![foto](IMG_2188.JPG =250x)
+![foto](0164136.jpg)
 
 # Olga Kiseleva
 **My Contact Info**
