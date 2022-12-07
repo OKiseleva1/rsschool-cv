@@ -7,7 +7,7 @@
 * E-mail: kiseleva2301@yandex.ru
 * GitHub: OKiseleva1
 
-===
+
 I am interested in web development because I really like this activity and I want to become a great programmer.
 I plan to get a lot of knowledge at RS School that will help me further in my career.
 
