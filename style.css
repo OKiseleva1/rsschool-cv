@@ -16,11 +16,11 @@ body {
     justify-content: space-between;
     font-size: 18px;
     line-height: 1.5;
-    color: #3c33b6;
+    color: grey;
 }
 
 header {
-    background-color: bisque;
+    background-color: grey;
 }
 
 .container {
@@ -51,7 +51,7 @@ header {
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
-    color: green;
+    color: white;
     text-decoration: none;
     transition: color 0.5s;
 }
@@ -83,6 +83,10 @@ header {
     }
 }
 
+.foto {
+    width: 200px;
+}
+
 hr {
     height: 1px;
     width: 100%;
@@ -94,5 +98,20 @@ hr {
 
 footer {
     text-align: center;
-    background-color: bisque;
+    background-color: grey;
+}
+
+.ul-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.li-footer {
+    color: white;
+}
+
+.logo {
+    width: 150px;
 }
