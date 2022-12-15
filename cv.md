@@ -1,4 +1,4 @@
-![foto](0164136.jpg)
+![foto](./assets/img/0164136.jpg)
 
 # Olga Kiseleva
 **My Contact Info**
