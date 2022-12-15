@@ -1,1 +1,1 @@
-# rsschool-cv
+https://OKiseleva1.github.io/rsschool-cv/
